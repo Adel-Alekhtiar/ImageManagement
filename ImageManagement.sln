@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{F1FB20DF-06DD-4F96-AD80-D12394050620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageManagmentAPI", "ImageManagmentAPI\ImageManagmentAPI.csproj", "{6B755D6D-8751-4581-8C90-382906433AB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1FB20DF-06DD-4F96-AD80-D12394050620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FB20DF-06DD-4F96-AD80-D12394050620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FB20DF-06DD-4F96-AD80-D12394050620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FB20DF-06DD-4F96-AD80-D12394050620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B755D6D-8751-4581-8C90-382906433AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B755D6D-8751-4581-8C90-382906433AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B755D6D-8751-4581-8C90-382906433AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B755D6D-8751-4581-8C90-382906433AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39E06A0A-2318-47B7-850E-5C8F4E456325}
+	EndGlobalSection
+EndGlobal
